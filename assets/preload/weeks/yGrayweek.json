@@ -1,0 +1,49 @@
+{
+	"storyName": "Slaybells",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Delusion",
+			"gray",
+			[
+				60,
+				60,
+				80
+			]
+		],
+		[
+			"blackout",
+			"gray",
+			[
+				60,
+				60,
+				80
+			]
+		],
+		[
+			"Neurotic",
+			"gray",
+			[
+				60,
+				60,
+				80
+			]
+		]
+	],
+	"weekName": "Event-horizon"
+}

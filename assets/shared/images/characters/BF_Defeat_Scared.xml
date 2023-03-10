@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF_Defeat_Scared.png">
+<SubTexture name="BF idle dance afraid0000" x="834" y="1330" width="420" height="401" frameX="0" frameY="-18" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0001" x="1254" y="1330" width="420" height="401" frameX="0" frameY="-18" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0002" x="0" y="1330" width="417" height="405" frameX="-3" frameY="-14" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0003" x="417" y="1330" width="417" height="405" frameX="-3" frameY="-14" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0004" x="913" y="912" width="411" height="413" frameX="-7" frameY="-6" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0005" x="1646" y="0" width="411" height="413" frameX="-7" frameY="-6" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0006" x="413" y="493" width="414" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0007" x="1232" y="0" width="414" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0008" x="818" y="0" width="414" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0009" x="1232" y="418" width="413" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0010" x="0" y="493" width="413" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0011" x="818" y="0" width="414" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0012" x="1232" y="418" width="413" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0013" x="0" y="493" width="413" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0014" x="818" y="0" width="414" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0015" x="1232" y="418" width="413" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0016" x="0" y="493" width="413" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0017" x="818" y="0" width="414" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0018" x="1232" y="418" width="413" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0019" x="0" y="493" width="413" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0020" x="818" y="0" width="414" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0021" x="1232" y="418" width="413" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0022" x="0" y="493" width="413" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0023" x="818" y="0" width="414" height="419" frameX="-4" frameY="0" frameWidth="421" frameHeight="419" />
+<SubTexture name="BF idle dance afraid0024" x="1232" y="418" width="413" height="418" frameX="-4" frameY="-1" frameWidth="421" frameHeight="419" />
+<SubTexture name="down fear0000" x="1674" y="1330" width="373" height="375" frameX="0" frameY="-6" frameWidth="373" frameHeight="382" />
+<SubTexture name="down fear0001" x="1674" y="1330" width="373" height="375" frameX="0" frameY="-6" frameWidth="373" frameHeight="382" />
+<SubTexture name="down fear0002" x="827" y="493" width="363" height="380" frameX="-6" frameY="-1" frameWidth="373" frameHeight="382" />
+<SubTexture name="left fear0000" x="0" y="912" width="465" height="418" frameX="-5" frameY="0" frameWidth="470" frameHeight="420" />
+<SubTexture name="left fear0001" x="0" y="912" width="465" height="418" frameX="-5" frameY="0" frameWidth="470" frameHeight="420" />
+<SubTexture name="left fear0002" x="465" y="912" width="448" height="415" frameX="0" frameY="-4" frameWidth="470" frameHeight="420" />
+<SubTexture name="right fear0000" x="1646" y="816" width="387" height="396" frameX="0" frameY="-8" frameWidth="387" frameHeight="405" />
+<SubTexture name="right fear0001" x="1646" y="816" width="387" height="396" frameX="0" frameY="-8" frameWidth="387" frameHeight="405" />
+<SubTexture name="right fear0002" x="1646" y="413" width="380" height="403" frameX="0" frameY="-1" frameWidth="387" frameHeight="405" />
+<SubTexture name="up fear0000" x="0" y="0" width="404" height="493" frameX="-8" frameY="0" frameWidth="416" frameHeight="493" />
+<SubTexture name="up fear0001" x="0" y="0" width="404" height="493" frameX="-8" frameY="0" frameWidth="416" frameHeight="493" />
+<SubTexture name="up fear0002" x="404" y="0" width="414" height="481" frameX="-1" frameY="-12" frameWidth="416" frameHeight="493" />
+</TextureAtlas>

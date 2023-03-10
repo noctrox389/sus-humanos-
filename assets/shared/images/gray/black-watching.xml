@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="black-watching.png">
+<SubTexture name="daddy0000" x="0" y="0" width="571" height="880" frameX="0" frameY="-5" frameWidth="572" frameHeight="886" />
+</TextureAtlas>

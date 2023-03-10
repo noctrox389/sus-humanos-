@@ -1,0 +1,40 @@
+{
+	"storyName": "Slaybells",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Defeat",
+			"Black",
+			[
+				35,
+				0,
+				60
+			]
+		],
+		[
+			"Defeat(vocal2)",
+			"Black",
+			[
+				35,
+				0,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Event-horizon"
+}
